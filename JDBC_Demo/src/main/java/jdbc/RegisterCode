@@ -1,0 +1,5 @@
+for register we can use this also 
+
+DriverManager.registerDriver(new com.mysql.jdbc.Driver());
+	or 
+Class.forName("com.mysql.jdbc.Driver");
