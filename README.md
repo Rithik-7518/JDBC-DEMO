@@ -1,44 +1,41 @@
 # Hi there, I'm Rithik S! 👋  
 
-🚀 **Spring Boot Developer | Automation Tester | Tech Enthusiast**  
+🚀 ** Spring Boot Developer | Automation Tester | Tech Enthusiast ** 
 
-I am currently in my final year at **JKK Munirajah College of Technology**, passionate about backend development with **Spring Boot** and automation testing using **Selenium WebDriver**. I actively work on projects related to **REST APIs, authentication & security, and microservices**.  
+# 🚀 JDBC Demo Project  
 
----
-
-## 🔧 **Tech Stack & Skills**  
-
-- 💻 **Backend Development:** Java, Spring Boot, REST APIs, Microservices  
-- 🔒 **Security:** JWT, OAuth, Spring Security  
-- 🛠 **Tools & CI/CD:** Git, GitHub, Postman, Docker, Jenkins, Maven  
-- 🌐 **Automation Testing:** Selenium WebDriver, TestNG, Cucumber, JUnit  
+## 📌 Overview  
+This project demonstrates **JDBC (Java Database Connectivity)**, showcasing how to connect a Java application to a relational database like **MySQL**. It covers fundamental database operations such as **CRUD (Create, Read, Update, Delete)** using JDBC.  
 
 ---
 
-## 📂 **Projects**  
-
-### 🔹 **CRUD Operation in Website**  
-A demo **e-commerce website** implementing CRUD operations:  
-- ✅ Create, read, update, and delete products  
-- ✅ Add new products  
-- ✅ Update product details  
-- ✅ Delete products  
-- ✅ View all available products  
-
-[🔗 Check it out](https://github.com/Rithik-7518/SpringBootRepository)  
+## 🔧 Tech Stack  
+- **Programming Language:** Java  
+- **Database:** MySQL  
+- **JDBC Driver:** MySQL Connector (JDBC)  
+- **Tools:**  Eclipse, MySQL Workbench  
 
 ---
 
-### 🔹 **Testing Demo OpenCart App**  
-Automated testing for **OpenCart Application**:  
-- ✅ Testing login and registration pages  
-- ✅ Running tests in Jenkins  
-- ✅ Cross-platform testing  
-
-[🔗 Check it out](https://github.com/Rithik-7518/Opencart-1.1.1-demo)  
-
+## 📂 Features  
+✅ Establishing a JDBC connection to a MySQL database  
+✅ Performing CRUD operations  
+✅ Using Prepared Statements to prevent SQL Injection  
+✅ Handling database transactions  
+✅ Properly closing database resources  
 
 ---
+
+## 📁 Project Structure  
+┣ 📂JDBC_Demo
+┣ 📂.settings
+┣ 📂src/main/java
+┃ ┣ 📜jdbc
+┃ ┣ 📜jdbc_crud
+┃ ┣ 📜jdbc_dao
+┣ 📜 pom.xml 
+
+--
 
 ## 📊 **GitHub Stats**  
 
