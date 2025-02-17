@@ -37,13 +37,6 @@ This project demonstrates **JDBC (Java Database Connectivity)**, showcasing how 
 
 --
 
-## 📊 **GitHub Stats**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithik-7518&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik-7518&layout=compact&theme=radical)  
-
----
-
 ## 📫 **Let's Connect**  
 
 - 💼 LinkedIn: [Rithik S](https://www.linkedin.com/in/rithik-s-b6714224b)  
